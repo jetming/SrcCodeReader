@@ -2,10 +2,8 @@
 
 ### Related Materials
 
-- libclang, Thinking Beyond the Compiler [video] [slide]
+- use libclang to analysis the source code of c/c++.
+	1. get all of the function name declared in the souce code.
 
-
-video: http://devimages.apple.com/llvm/videos/Libclang.mov
-slide: http://llvm.org/devmtg/2010-11/Gregor-libclang.pdf
 
 
